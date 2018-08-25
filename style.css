@@ -1,0 +1,18 @@
+.container {
+    text-align: center;
+}
+
+.title {
+    font-size: 5em;
+    text-align: center;
+    margin-top: 3em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: whitesmoke;
+    animation-duration: 3s;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+}
+
+body {
+    background-color: palevioletred;
+}
